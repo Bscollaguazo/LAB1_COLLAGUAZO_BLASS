@@ -2,6 +2,8 @@
 
 Laboratorio 1 de fundamentos de circuitos (herramientas ,seguridad y càlculos de circuitos)
 
+Nombres: Nicolas Cando , Blass Collaguazo
+
 1. OBJETIVOS
 2. 1.1 Objetivos Generales.
 
