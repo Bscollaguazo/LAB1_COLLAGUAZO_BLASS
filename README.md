@@ -89,6 +89,12 @@ Para finalizar con la resistencia equivalente y usando la formula de Ohm obtenem
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
+
+
+Calculo del error:
+
+
 5. VIDEO
 
 6. CONCLUSIONES
@@ -105,4 +111,4 @@ colaboradores de Wikipedia. (2022b, octubre 27). Multímetro. Wikipedia, la enci
 
 RUBRICA
 
-![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/tabla01.jpg)
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/Laboratorio.png)
