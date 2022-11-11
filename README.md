@@ -31,7 +31,13 @@ Medicion de voltaje:
 
 Medicion de intensidad de corriente:
 
-![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/medicioni.png)
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/medicioni%20(2).png)
+
+Se procede a realizar el calculo analiticamente
+
+Para resolver este circuito mixto se procede a utlizar los conceptos de resistencias en serie y paralelo para asi poder encontrar los respectivos voltajes e intensidad  de corriente en las diferentes resistencias.
+
+
 
 
 
