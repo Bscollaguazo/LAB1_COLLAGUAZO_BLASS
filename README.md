@@ -73,22 +73,36 @@ Resolucion de circuito mixto:
 
 Se observa que la resistencia 3 y 4 estan en serie por lo que sumamos las 2 resistencias:
 
-R_s=2.2kΩ+2.2kΩ=4.4kΩ
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/resistencias.png)
 
 El resultado de esta resistencia queda en paralelo con la resistencia 2 :
 
-R_p=(3.9kΩ)(4.4kΩ)/3.9kΩ+4.4kΩ
-
-R_p=17.16kΩ/8.3kΩ
-
-R_p=2.07kΩ
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/resistenciap.png)
 
 Con esto todas las resistencias quedan en serie por lo que se sumas y nos da una resistencia equivalente:
 
-R_e=1kΩ+2.7kΩ+1.8kΩ
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/resistenciae.png)
 
 Para finalizar con la resistencia equivalente y usando la formula de Ohm obtenemos los valores de voltaje e intensidad de corriente de las diferentes resistencias 
 
 ![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/tabla01.jpg)
 
+4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+5. VIDEO
+
+6. CONCLUSIONES
+
+6.1 Puedo concluir con que la practica de laboratorio fue muy buena, estumo muy entendible y el profesor enseño paso a paso la forma de usar los materiales y el simulador, logramos cumplir los objetivos de la practica, se aprendio a perfeccion sobre los diferentes circuitos electricos.
+
+7. BIBLIOGRAFÍA
+
+Las leyes de Kirchhoff (artículo). (s. f.). Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+colaboradores de Wikipedia. (2022, 23 octubre). Gustav Kirchhoff. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Gustav_Kirchhoff
+
+colaboradores de Wikipedia. (2022b, octubre 27). Multímetro. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Mult%C3%ADmetro
+
+RUBRICA
+
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/tabla01.jpg)
