@@ -1,4 +1,4 @@
-# LABOTORIO 1
+# LABORATORIO 1
 
 Laboratorio 1 de fundamentos de circuitos (herramientas ,seguridad y càlculos de circuitos)
 
