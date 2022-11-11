@@ -37,7 +37,13 @@ Se procede a realizar el calculo analiticamente
 
 Para resolver este circuito mixto se procede a utlizar los conceptos de resistencias en serie y paralelo para asi poder encontrar los respectivos voltajes e intensidad  de corriente en las diferentes resistencias.
 
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/calculoanalitico.jpg)
 
+Resolucion de circuito mixto:
+
+Se observa que la resistencia 3 y 4 estan en serie por lo que sumamos las 2 resistencias:
+
+2.2kΩ+2.2kΩ=4.4kΩ
 
 
 
