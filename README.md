@@ -59,6 +59,6 @@ R_e=1kΩ+2.7kΩ+1.8kΩ
 
 Para finalizar con la resistencia equivalente y usando la formula de Ohm obtenemos los valores de voltaje e intensidad de corriente de las diferentes resistencias 
 
-![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/tabla1.jpg)
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/tabla01.jpg)
 
 
