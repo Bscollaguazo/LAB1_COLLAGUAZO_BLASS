@@ -15,4 +15,16 @@ Los objetivos de investigación deben cumplir ciertas características:
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-![](https://github.com/Nikopunky/Tarea-1/blob/main/1.png)
+Circuito Resistivo Mixto (TINKERCAD)
+
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/circuito.png)
+
+Diagrama Esquematico
+
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/diagrama.png)
+
+Se procede a ultilizar el simulador tinkercad para realizar mediciones de voltaje e intensidad de corriente en el circuito electrico mixto 
+
+Medicion de voltaje:
+
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/medicionv.png)
