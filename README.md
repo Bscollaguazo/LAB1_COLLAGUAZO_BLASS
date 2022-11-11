@@ -28,3 +28,10 @@ Se procede a ultilizar el simulador tinkercad para realizar mediciones de voltaj
 Medicion de voltaje:
 
 ![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/medicionv.png)
+
+Medicion de intensidad de corriente:
+
+![](https://github.com/Bscollaguazo/LAB1_COLLAGUAZO_BLASS/blob/main/medicioni.png)
+
+
+
