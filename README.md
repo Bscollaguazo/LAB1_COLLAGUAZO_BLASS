@@ -97,6 +97,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 Calculo del error:
 
 
+
 5. VIDEO
 
 6. CONCLUSIONES
