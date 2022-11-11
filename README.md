@@ -43,7 +43,15 @@ Resolucion de circuito mixto:
 
 Se observa que la resistencia 3 y 4 estan en serie por lo que sumamos las 2 resistencias:
 
-2.2kΩ+2.2kΩ=4.4kΩ
+R_s=2.2kΩ+2.2kΩ=4.4kΩ
+
+El resultado de esta resistencia queda en paralelo con la resistencia 2 :
+
+R_p=(3.9kΩ)(4.4kΩ)/3.9kΩ+4.4kΩ
+
+R_p=17.16kΩ/8.3kΩ
+
+R_p=2.07kΩ
 
 
 
